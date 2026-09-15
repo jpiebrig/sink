@@ -1,0 +1,9 @@
+name = "sink"
+main = "backend/src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sink_db"
+database_id = "febd3c3d-f982-41ad-b56e-a9c8a9a6110b"
