@@ -299,93 +299,93 @@ msgstr "Sink : Synchroniser maintenant"
 
 # en-hash: e6779d462a374ba68c5d19fdbe9b642f
 msgid "Sync Progress Now"
-msgstr ""
+msgstr "Synchroniser la progression maintenant"
 
 # en-hash: c501e1f9495ff8eab7c7798b1e38bea4
 msgid "Sync X-Ray Cache"
-msgstr ""
+msgstr "Synchronisation du cache des rayons X"
 
 # en-hash: 9a0d5b8b784e6e32035c24675acbd595
 msgid "Synced Books (Cloud Library)"
-msgstr ""
+msgstr "Livres synchronisés (Bibliothèque dans le cloud)"
 
 # en-hash: 0f111cf75296ea35df2ace16e8a18241
 msgid "Synced from cloud: %.1f%% (%s)"
-msgstr ""
+msgstr "Synchronisé depuis le cloud : %.1f%% (%s)"
 
 # en-hash: e8a6d99eb898c3f48b663da56fc11cde
 msgid "Synced to cloud: %.1f%%"
-msgstr ""
+msgstr "Synchronisé avec le cloud : %.1f%%"
 
 # en-hash: c92e6c4ff7075865e80918469a6d887a
-msgid "Syncing with Sink server..."
-msgstr ""
+msgid "Synchronisation avec le serveur Sink..."
+msgstr "Synchronisation avec le serveur Sink..."
 
 # en-hash: eabe81c1919fc176da8928966a8eabb8
 msgid "Triggering Cloudflare backend update..."
-msgstr ""
+msgstr "Lancement de la mise à jour du backend Cloudflare..."
 
 # en-hash: 88183b946cc5f0e8c96b2e66e1c74a7e
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 # en-hash: 5ff395ed919579fb258f6e94d0ef912a
 msgid "Unlink Device/Clear Account"
-msgstr ""
+msgstr "Désassocier un appareil/Supprimer un compte"
 
 # en-hash: ad7ec437ea8ccc0b43b97afa699d0b00
 msgid "Update Backend Now"
-msgstr ""
+msgstr "Mettre à jour le backend maintenant"
 
 # en-hash: c498c80a98cf895782f38e7175bc9701
 msgid "Update Plugin"
-msgstr ""
+msgstr "Mettre à jour le plugin"
 
 # en-hash: 445d73ec0479f5ff9c89eeff9c3de0c9
 msgid "Update check failed:\n"
-msgstr ""
+msgstr "Échec de la vérification des mises à jour :\n"
 
 # en-hash: 8a3668b0f7baa857a2b2be28d61eee19
 msgid "Updater module not available."
-msgstr ""
+msgstr "Le module de mise à jour n'est pas disponible."
 
 # en-hash: 924c55ab0c9aeb110a5e15752643da06
 msgid "Welcome & Setup Guide"
-msgstr ""
+msgstr "Guide de bienvenue et de configuration"
 
 # en-hash: ecc1598a145a24203d9bcbd8be700d30
 msgid "Welcome to Sink"
-msgstr ""
+msgstr "Bienvenue chez Sink"
 
 # en-hash: b5df1ec8b1e17a95cac17a9cd0acec5c
 msgid "Welcome to Sink!\n\nSink gives you private, seamless reading progress and X-Ray synchronization across all your KOReader devices.\n\nSetup requires your own free Cloudflare Worker backend (takes 2 minutes, 100% free forever on Cloudflare's free tier, zero credit card required)."
-msgstr ""
+msgstr "Bienvenue sur Sink !\n\nSink vous offre un suivi personnalisé et fluide de votre progression de lecture, ainsi qu'une synchronisation X-Ray sur tous vos appareils KOReader.\n\nLa configuration nécessite que vous disposiez de votre propre backend Cloudflare Worker gratuit (cela prend 2 minutes, c'est 100 % gratuit à vie dans le cadre de l'offre gratuite de Cloudflare, aucune carte bancaire n'est requise)."
 
 # en-hash: 3ddbd341065edde5b6532c76d92fc9bf
 msgid "Your GitHub fork also auto-syncs daily via GitHub Actions."
-msgstr ""
+msgstr "Votre fork GitHub se synchronise également automatiquement chaque jour via GitHub Actions."
 
 # en-hash: 9cfefed8fb9497baa5cd519d7d2bb5d7
 msgid "current_language"
-msgstr ""
+msgstr "langue_actuelle"
 
 # en-hash: 27310f957a7c4da22537887e568d400b
 msgid "✓ Backend update triggered!\n\nCloudflare is rebuilding your Worker in the background (~30-45 seconds)."
-msgstr ""
+msgstr "✓ Mise à jour du backend déclenchée !\n\nCloudflare est en train de reconstruire votre Worker en arrière-plan (30 à 45 secondes)."
 
 # en-hash: 687201e624f865892669b1937b36d84f
 msgid "✓ Connected & Synced!\nAccount: "
-msgstr ""
+msgstr "✓ Connecté et synchronisé !\nCompte : "
 
 # en-hash: 7948ec8a56cec3c46023793087050782
 msgid "✓ E-Reader Paired Successfully!\n\nConnected as: %s\nReading progress will now sync automatically."
-msgstr ""
+msgstr "✓ Liseuse connectée avec succès !\n\nConnectée sous le nom : %s\nLa progression de lecture se synchronisera désormais automatiquement."
 
 # en-hash: 002ef1e9ffc6632f8f852326ff6d7965
 msgid "✓ Plugin is up to date."
-msgstr ""
+msgstr "✓ Le plugin est à jour."
 
 # en-hash: 74e57e6b3051c93215e676599c169e09
 msgid "✓ Sink %s installed successfully!\n\nRestart KOReader now to apply the update?"
-msgstr ""
+msgstr "✓ Sink %s installé avec succès !\n\nVoulez-vous redémarrer KOReader maintenant pour appliquer la mise à jour ?"
 
